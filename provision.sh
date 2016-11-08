@@ -1,4 +1,5 @@
 #!/bin/bash
+# Kudos https://github.com/mattandersen/vagrant-lamp
 
 apache_config_file="/etc/apache2/envvars"
 apache_vhost_file="/etc/apache2/sites-available/vagrant_vhost.conf"
