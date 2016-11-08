@@ -31,3 +31,8 @@ $ mysql -u root --passwd=root
     MYSQLHOST = '127.0.0.1'
 
 Outside of vagrant, run `chmod 0770 src/nextcloud/data/`.
+
+## Hacking Nextcloud
+
+`cd /vagrant/src/nextcloud/apps/` and git clone the app you want to work on.
+ Follow the instruction there.
