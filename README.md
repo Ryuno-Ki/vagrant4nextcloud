@@ -36,3 +36,5 @@ Outside of vagrant, run `chmod 0770 src/nextcloud/data/`.
 
 `cd /vagrant/src/nextcloud/apps/` and git clone the app you want to work on.
  Follow the instruction there.
+
+You'll need to enable the app in the web UI before it is available.
