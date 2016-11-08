@@ -29,3 +29,5 @@ $ mysql -u root --passwd=root
     MYSQLPASSWD = 'root'
     MYSQLDBNAME = 'nextcloud'
     MYSQLHOST = '127.0.0.1'
+
+Outside of vagrant, run `chmod 0770 src/nextcloud/data/`.
